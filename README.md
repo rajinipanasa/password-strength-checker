@@ -11,13 +11,15 @@ This is a Python mini project that checks whether a password is strong, medium, 
 ## Example
 
 Enter your password:Rajini@123  
-strong password
+Strong password
 
 Enter your password:rajini@123
-medium password
+
+Medium password
 
 Enter your password:rajini1
-weak password
+
+Weak password
 
 ## Technologies Used
 Python
