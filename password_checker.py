@@ -10,8 +10,8 @@ special_ok = any (char in special_chars for char in password)
 score = length_ok + number_ok + uppercase_ok + special_ok
 
 if score == 4:
-    print("strong password")
+    print("Strong password")
 elif score >= 2:
-    print("medium password")
+    print("Medium password")
 else:
-    print("weak password")
+    print("Weak password")
